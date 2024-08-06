@@ -1,4 +1,4 @@
-## Random static snippets of dashboards, infographics, visual analysis.
+## Random static snippets of dashboards, infographics, visual analyses.
 
 ![snippet1](/portfolio/img/Anon_portfolio_version.jpg "Static, anonymised snippet of debt portfolio analyses project")
 
