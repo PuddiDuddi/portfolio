@@ -5,3 +5,5 @@
 ![snippet2](/portfolio/img/anon_debt_package1.png "Static, anonymised snippet of acquired debt performance over time")
 
 ![snippet3](/portfolio/img/anon_debt_package2.png "Static, anonymised snippet of acquired debt performance over time")
+
+![snippet4](/portfolio/img/PBIDesktop_2024-10-18_21-27-36.jpg "PBI")
